@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which type of motion is exhibited by Torsion pendulum?",
+      "answers": {
+        "a": "Rotational periodic motion",
+        "b": "Translational motion",
+        "c": "Simple Harmonic motion",
+        "d": "Twisting motion/Vibrational motion"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Rigidity modulus of the wire changes with.",
+      "answers": {
+        "a": "Length of the wire",
+        "b": "Pressure",
+        "c": "Temperature",
+        "d": "Radios of the wire"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "1 N/m<sup>2</sup> = ________ dyne/cm<sup>2</sup>",
+      "answers": {
+        "a": "1",
+        "b": "10",
+        "c": "100",
+        "d": "1000"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
