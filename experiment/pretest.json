@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which type of motion is exhibited by Torsion pendulum?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Rotational periodic motion",
+        "b": "Translational motion",
+        "c": "Simple Harmonic motion",
+        "d": "Twisting motion/Vibrational motion"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Rigidity modulus of the wire changes with.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Length of the wire",
+        "b": "Pressure",
+        "c": "Temperature",
+        "d": "Radios of the wire"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "1 N/m<sup>2</sup> = ________ dyne/cm<sup>2</sup>",
+      "answers": {
+        "a": "1",
+        "b": "10",
+        "c": "100",
+        "d": "1000"
+      },
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
