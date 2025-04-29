@@ -1,1 +1,1 @@
-## Experiment name
+## Moment of inertia of a Torsion Pendulum
