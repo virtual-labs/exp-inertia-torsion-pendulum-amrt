@@ -32,9 +32,11 @@ d2=...........m
 
 ### Calculations
 
-T0   = ........s
-T1   = .........s
-T2   = .........s
+T<sub>0</sub>   = ........s
+
+T<sub>1</sub>   = .........s
+
+T<sub>2</sub>   = .........s
 
 
 Moment of inertia of the given disc, 
