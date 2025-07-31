@@ -36,6 +36,30 @@
      
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "In Torsion pendulum experiment, if the suspension wire radius increases, what will happen to the period of oscillation ?",
+      "answers": {
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "Remains same",
+        "d": "Increase then decrease"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The moment of inertia of a disc of mass M and radius R,about an axis passing through its centre and perpendicular to the plane of the disc is...",
+      "answers": {
+        "a": "MR<sup>2</sup>",
+        "b": "(1/2)MR<sup>2</sup>",
+        "c": "(1/4)MR<sup>2</sup>",
+        "d": "(3/4)MR<sup>2</sup>"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
